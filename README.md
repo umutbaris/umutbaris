@@ -2,9 +2,9 @@
 
 I'm a software engineer 👨‍💻 I work at  [@virtuagym](https://github.com/virtuagym)
 
-- 🔭 I’m currently working on [FitZone](https://business.virtuagym.com/solutions/fitzone/)
-- 🌱 I’m currently learning Python, Serverless and DynamoDB
-- 💬 Ask me about Php/Laravel/Mysql
+- 🔭 I’m currently working on SEPA DD and Ideal Payments 
+- 🌱 I’m currently learning Kafka and DynamoDB
+- 💬 Ask me about Php/Laravel/Mysql/Serverless
 - 📫 How to reach me: umutbariskarasar@outlook.com
 
 <!--
